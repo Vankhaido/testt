@@ -1,3 +1,13 @@
-#student id has changed
+<<<<<<< HEAD
+<<<<<<< HEAD
+#student id
 #password
-new line
+=======
+#student id has changed
+
+third time 
+>>>>>>> cb902c104db89fbd53d044a2fe411e91d81a4e27
+=======
+#student id
+#password
+>>>>>>> parent of 147e466... changed 1st time
